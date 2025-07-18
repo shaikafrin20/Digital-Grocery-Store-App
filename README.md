@@ -69,18 +69,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-## 📁 Folder Structure
-
-```
-digital-grocery-store-app/
-├── client/          # React frontend
-├── server/          # Node.js backend
-├── .env             # Environment variables
-├── README.md
-```
-
 ## 👤 User Roles
 
 ### ➤ Users
