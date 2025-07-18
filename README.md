@@ -112,7 +112,3 @@ digital-grocery-store-app/
 - Tracks orders in real-time
 - Receives personalized product suggestions
 
-## 📄 License
-
-This project is for educational purposes only. Contact the project creator for reuse or collaboration.
-
