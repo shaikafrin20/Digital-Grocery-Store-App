@@ -49,8 +49,8 @@ Ensure the following are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shaikafrin20/digital-grocery-store-app.git
-cd digital-grocery-store-app
+git clone https://github.com/shaikafrin20/Digital-Grocery-Store-App.git
+cd Digital-Grocery-Store-App
 ```
 
 ### 2. Backend Setup
